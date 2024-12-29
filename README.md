@@ -1,5 +1,5 @@
 
-Customer Churn Analysis
+#Customer Churn Analysis
 
 Examining customer attrition and visualizing it on a dashboard
 
